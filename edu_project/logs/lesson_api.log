@@ -1,0 +1,484 @@
+INFO 2020-07-08 20:50:39,084 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 20:51:55,237 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 20:51:57,151 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 21:01:55,621 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 21:05:39,083 basehttp 157 "GET / HTTP/1.1" 200 16351
+INFO 2020-07-08 21:05:39,122 basehttp 157 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2020-07-08 21:05:39,497 basehttp 157 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2020-07-08 21:05:39,498 basehttp 157 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2020-07-08 21:05:39,500 basehttp 157 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+WARNING 2020-07-08 21:05:39,811 log 228 Not Found: /favicon.ico
+WARNING 2020-07-08 21:05:39,812 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 1977
+WARNING 2020-07-08 21:05:59,320 log 228 Not Found: /User
+WARNING 2020-07-08 21:05:59,321 basehttp 157 "GET /User HTTP/1.1" 404 1956
+INFO 2020-07-08 21:18:18,175 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 21:18:20,109 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 21:19:22,412 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 21:19:24,187 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 21:22:08,492 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 21:22:10,526 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 21:24:03,113 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 21:24:04,827 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 21:27:04,715 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 21:27:06,535 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 21:27:44,928 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 21:27:46,761 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 21:28:06,835 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 21:28:08,635 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 22:50:00,459 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 22:50:06,782 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 22:50:23,286 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 22:50:25,200 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 22:51:03,101 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9002'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 22:51:04,298 log 228 Bad Request: /
+WARNING 2020-07-08 22:51:04,299 basehttp 157 "GET / HTTP/1.1" 400 72078
+ERROR 2020-07-08 22:51:05,893 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9002'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 22:51:05,956 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 22:51:05,957 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 71989
+INFO 2020-07-08 22:51:39,378 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 22:51:41,618 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 22:52:17,706 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9002'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 22:52:17,772 log 228 Bad Request: /
+WARNING 2020-07-08 22:52:17,772 basehttp 157 "GET / HTTP/1.1" 400 72106
+ERROR 2020-07-08 22:52:18,094 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9002'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 22:52:18,148 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 22:52:18,149 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 72017
+INFO 2020-07-08 22:54:25,642 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 22:54:32,029 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9002'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 22:54:32,121 log 228 Bad Request: /
+WARNING 2020-07-08 22:54:32,122 basehttp 157 "GET / HTTP/1.1" 400 72106
+ERROR 2020-07-08 22:54:32,631 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9002'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 22:54:32,708 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 22:54:32,709 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 72017
+INFO 2020-07-08 22:56:29,670 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 22:59:22,291 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 22:59:53,302 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 22:59:55,820 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:00:01,325 basehttp 157 "GET / HTTP/1.1" 200 16351
+WARNING 2020-07-08 23:00:01,888 log 228 Not Found: /favicon.ico
+WARNING 2020-07-08 23:00:01,889 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 1977
+INFO 2020-07-08 23:00:27,531 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:00:30,144 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:02:26,534 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 23:02:55,603 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9002'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:02:55,675 log 228 Bad Request: /
+WARNING 2020-07-08 23:02:55,676 basehttp 157 "GET / HTTP/1.1" 400 72243
+INFO 2020-07-08 23:04:24,893 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 23:04:28,871 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:04:28,984 log 228 Bad Request: /
+WARNING 2020-07-08 23:04:28,986 basehttp 157 "GET / HTTP/1.1" 400 72106
+ERROR 2020-07-08 23:04:29,490 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:04:29,587 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 23:04:29,590 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 72017
+INFO 2020-07-08 23:05:31,620 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 23:05:34,117 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9005'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:05:34,239 log 228 Bad Request: /
+WARNING 2020-07-08 23:05:34,245 basehttp 157 "GET / HTTP/1.1" 400 72106
+ERROR 2020-07-08 23:05:34,763 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9005'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:05:34,839 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 23:05:34,840 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 72017
+INFO 2020-07-08 23:08:15,379 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 23:08:18,194 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9005'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:08:18,298 log 228 Bad Request: /
+WARNING 2020-07-08 23:08:18,299 basehttp 157 "GET / HTTP/1.1" 400 72106
+ERROR 2020-07-08 23:08:19,560 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9005'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:08:19,622 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 23:08:19,623 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 72017
+ERROR 2020-07-08 23:09:49,855 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9005'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:09:49,938 log 228 Bad Request: /
+WARNING 2020-07-08 23:09:49,939 basehttp 157 "GET / HTTP/1.1" 400 72106
+ERROR 2020-07-08 23:09:50,979 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9005'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:09:51,040 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 23:09:51,041 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 72017
+INFO 2020-07-08 23:10:26,881 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 23:10:29,203 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:10:29,330 log 228 Bad Request: /
+WARNING 2020-07-08 23:10:29,331 basehttp 157 "GET / HTTP/1.1" 400 72106
+ERROR 2020-07-08 23:10:30,097 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:10:30,191 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 23:10:30,192 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 72017
+ERROR 2020-07-08 23:10:54,505 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:10:54,608 log 228 Bad Request: /
+WARNING 2020-07-08 23:10:54,609 basehttp 157 "GET / HTTP/1.1" 400 72106
+ERROR 2020-07-08 23:10:55,250 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:10:55,324 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 23:10:55,325 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 72017
+INFO 2020-07-08 23:13:48,610 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:16:42,575 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:16:51,328 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 23:16:55,449 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:16:55,527 log 228 Bad Request: /
+WARNING 2020-07-08 23:16:55,529 basehttp 157 "GET / HTTP/1.1" 400 72114
+ERROR 2020-07-08 23:16:55,988 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:16:56,053 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 23:16:56,056 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 72025
+INFO 2020-07-08 23:17:33,883 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:19:49,400 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:19:51,178 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:20:32,774 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:20:34,569 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:21:14,778 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:21:16,726 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:21:26,948 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 23:23:42,193 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:23:42,274 log 228 Bad Request: /
+WARNING 2020-07-08 23:23:42,275 basehttp 157 "GET / HTTP/1.1" 400 71303
+ERROR 2020-07-08 23:23:42,569 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:23:42,633 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 23:23:42,634 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 71214
+ERROR 2020-07-08 23:23:51,535 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:23:51,634 log 228 Bad Request: /
+WARNING 2020-07-08 23:23:51,635 basehttp 157 "GET / HTTP/1.1" 400 71303
+ERROR 2020-07-08 23:23:51,993 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:23:52,049 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 23:23:52,050 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 71214
+INFO 2020-07-08 23:23:53,162 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:23:58,562 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:24:00,371 basehttp 157 "GET / HTTP/1.1" 200 16351
+INFO 2020-07-08 23:24:00,445 basehttp 157 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+WARNING 2020-07-08 23:24:00,633 log 228 Not Found: /favicon.ico
+WARNING 2020-07-08 23:24:00,634 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 1977
+INFO 2020-07-08 23:24:00,639 basehttp 157 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2020-07-08 23:24:00,640 basehttp 157 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2020-07-08 23:24:00,642 basehttp 157 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2020-07-08 23:24:15,477 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:24:17,567 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:15:35,044 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:15:40,739 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:15:47,689 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:17:33,672 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:17:35,653 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:19:55,915 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\urls.py changed, reloading.
+INFO 2020-07-09 00:19:57,896 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:21:01,958 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\urls.py changed, reloading.
+INFO 2020-07-09 00:21:04,415 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:22:25,281 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:22:27,443 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:22:38,009 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:22:40,195 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:23:02,387 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:23:04,517 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:23:46,413 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:23:48,387 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:02:20,738 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:09:11,188 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-09 01:09:13,166 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:09:41,936 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-09 01:09:43,868 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:15:16,519 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:18:16,764 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-09 01:18:19,131 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:19:25,805 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-09 01:19:27,839 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:20:48,496 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\urls.py changed, reloading.
+INFO 2020-07-09 01:20:50,561 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:21:19,691 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\urls.py changed, reloading.
+INFO 2020-07-09 01:21:21,649 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:40:30,277 autoreload 222 E:\python2002\env2002\Lib\site-packages\django\conf\locale\__init__.py changed, reloading.
+ERROR 2020-07-09 01:56:59,381 exception 74 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 01:56:59,471 basehttp 124 "GET / HTTP/1.1" 400 71134
+ERROR 2020-07-09 01:56:59,955 exception 74 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 01:57:00,015 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 71046
+WARNING 2020-07-09 01:57:34,769 base 93 Not Found: /
+WARNING 2020-07-09 01:57:34,771 basehttp 124 "GET / HTTP/1.1" 404 2051
+WARNING 2020-07-09 01:57:34,907 base 93 Not Found: /favicon.ico
+WARNING 2020-07-09 01:57:34,908 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2102
+INFO 2020-07-09 01:57:52,157 basehttp 124 "GET /xadmin HTTP/1.1" 301 0
+INFO 2020-07-09 01:57:52,253 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 4167
+INFO 2020-07-09 01:57:52,285 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+INFO 2020-07-09 01:57:52,295 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+INFO 2020-07-09 01:57:52,305 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8376
+INFO 2020-07-09 01:57:52,306 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+INFO 2020-07-09 01:57:52,306 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+INFO 2020-07-09 01:57:52,308 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4361
+INFO 2020-07-09 01:57:52,326 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4174
+INFO 2020-07-09 01:57:52,328 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240196
+INFO 2020-07-09 01:57:52,338 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+INFO 2020-07-09 01:57:52,358 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+INFO 2020-07-09 01:57:52,359 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+INFO 2020-07-09 01:57:52,360 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+INFO 2020-07-09 01:57:52,361 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+INFO 2020-07-09 01:57:52,415 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+INFO 2020-07-09 01:57:52,415 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4165
+INFO 2020-07-09 01:57:52,551 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+INFO 2020-07-09 02:02:56,758 basehttp 124 "POST /xadmin/ HTTP/1.1" 302 0
+INFO 2020-07-09 02:03:00,970 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 9832
+INFO 2020-07-09 02:03:01,014 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,028 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,029 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,030 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,031 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,032 basehttp 124 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 200 790
+INFO 2020-07-09 02:03:01,034 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,058 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,058 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,059 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,063 basehttp 124 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 200 3208
+INFO 2020-07-09 02:03:01,063 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 200 1000
+INFO 2020-07-09 02:03:01,064 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,079 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,080 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,098 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,098 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:05,158 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 02:03:05,176 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,751 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 13253
+INFO 2020-07-09 02:08:41,804 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,827 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,829 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,829 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,830 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,830 basehttp 124 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,831 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,862 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,863 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,865 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,866 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 200 3489
+INFO 2020-07-09 02:08:41,867 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,869 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 200 31918
+INFO 2020-07-09 02:08:41,891 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,893 basehttp 124 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,893 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,906 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,907 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,915 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:45,926 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 02:08:46,120 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,798 basehttp 124 "GET /xadmin/xadmin/userwidget/add/?user=1&page_id=home&_redirect=/xadmin/ HTTP/1.1" 200 18611
+INFO 2020-07-09 02:11:07,854 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,872 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,872 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,879 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,879 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,881 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 200 3763
+INFO 2020-07-09 02:11:07,884 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,893 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,900 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,901 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,907 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,914 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 200 1948
+INFO 2020-07-09 02:11:07,915 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,923 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,924 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,928 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,940 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,944 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,945 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:12,104 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 02:11:12,265 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:20,692 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 23951
+INFO 2020-07-09 02:11:20,721 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 200 2319
+INFO 2020-07-09 02:11:20,725 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 200 529
+INFO 2020-07-09 02:11:20,733 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 200 1990
+INFO 2020-07-09 02:11:20,734 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 200 1105
+INFO 2020-07-09 02:11:24,741 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 02:11:31,423 basehttp 124 "GET /xadmin/first_one/banner/add/ HTTP/1.1" 200 19492
+INFO 2020-07-09 02:11:31,443 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.css HTTP/1.1" 200 3339
+INFO 2020-07-09 02:11:31,459 basehttp 124 "GET /static/xadmin/vendor/load-image/load-image.js HTTP/1.1" 200 8309
+INFO 2020-07-09 02:11:31,461 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.js HTTP/1.1" 200 15611
+INFO 2020-07-09 02:11:35,480 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 02:12:16,898 basehttp 124 "POST /xadmin/first_one/banner/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 02:12:21,034 basehttp 124 "GET /xadmin/first_one/banner/add/ HTTP/1.1" 200 19843
+INFO 2020-07-09 02:12:25,099 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 02:12:49,827 basehttp 124 "POST /xadmin/first_one/banner/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 02:12:53,957 basehttp 124 "GET /xadmin/first_one/banner/add/ HTTP/1.1" 200 19842
+INFO 2020-07-09 02:12:58,006 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 02:13:29,701 basehttp 124 "POST /xadmin/first_one/banner/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 02:13:33,879 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 29182
+INFO 2020-07-09 02:13:33,915 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,933 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,933 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,943 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,943 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,943 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,948 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,961 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,967 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,970 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,970 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,975 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,976 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 200 4198
+INFO 2020-07-09 02:13:33,992 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,992 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,993 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,996 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,997 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:34,022 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:34,022 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:34,023 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:34,024 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:34,024 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:38,008 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 02:42:07,731 basehttp 124 "GET /first/banner HTTP/1.1" 301 0
+INFO 2020-07-09 02:42:11,829 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 5262
+INFO 2020-07-09 02:42:11,900 basehttp 124 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2020-07-09 02:42:11,902 basehttp 124 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+INFO 2020-07-09 02:42:11,912 basehttp 124 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2020-07-09 02:42:11,914 basehttp 124 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2020-07-09 02:42:11,914 basehttp 124 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2020-07-09 02:42:11,918 basehttp 124 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 37608
+INFO 2020-07-09 02:42:11,933 basehttp 124 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2020-07-09 02:42:11,946 basehttp 124 "GET /static/rest_framework/js/jquery-3.4.1.min.js HTTP/1.1" 200 88145
+INFO 2020-07-09 02:42:12,026 basehttp 124 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2020-07-09 02:42:12,026 basehttp 124 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2020-07-09 02:42:12,090 basehttp 124 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2020-07-09 02:42:37,157 basehttp 124 "OPTIONS /first/banner/ HTTP/1.1" 200 5628
+INFO 2020-07-09 02:42:39,005 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 5262
+ERROR 2020-07-09 02:42:39,054 basehttp 124 "GET /first/banner/ HTTP/1.1" 500 59
+INFO 2020-07-09 02:43:12,638 basehttp 124 "GET /first/banner/?format=api HTTP/1.1" 200 5306
+INFO 2020-07-09 02:43:21,040 basehttp 124 "GET /first/banner/?format=json HTTP/1.1" 200 2
+INFO 2020-07-09 02:44:45,645 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 5262
+WARNING 2020-07-09 07:32:34,488 base 93 Not Found: /
+WARNING 2020-07-09 07:32:34,503 basehttp 124 "GET / HTTP/1.1" 404 2157
+WARNING 2020-07-09 07:32:34,696 base 93 Not Found: /favicon.ico
+WARNING 2020-07-09 07:32:34,697 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2208
+INFO 2020-07-09 07:33:07,520 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 5262
+WARNING 2020-07-09 07:33:16,282 basehttp 124 "GET /static/rest_framework/css/bootstrap.min.css.map HTTP/1.1" 404 1744
+INFO 2020-07-09 07:33:29,819 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 5262
+WARNING 2020-07-09 07:33:29,881 basehttp 124 "GET /static/rest_framework/css/bootstrap.min.css.map HTTP/1.1" 404 1744
+INFO 2020-07-09 07:33:44,917 basehttp 124 "GET /first/banner/?format=json HTTP/1.1" 200 2
+INFO 2020-07-09 07:34:36,447 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 14831
+INFO 2020-07-09 07:34:36,503 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,504 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,560 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,561 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,562 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,562 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,563 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,563 basehttp 124 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,567 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,614 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,614 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,615 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,615 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,615 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,616 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,639 basehttp 124 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,639 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,640 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,642 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:40,762 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 07:34:40,966 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+ERROR 2020-07-09 07:34:50,875 exception 118 Internal Server Error: /xadmin/first_one/nav/
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\python2002\env2002\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "E:\python2002\env2002\lib\site-packages\MySQLdb\cursors.py", line 209, in execute
+    res = self._query(query)
+  File "E:\python2002\env2002\lib\site-packages\MySQLdb\cursors.py", line 315, in _query
+    db.query(q)
+  File "E:\python2002\env2002\lib\site-packages\MySQLdb\connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.ProgrammingError: (1146, "Table 'api.b_one' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python2002\env2002\lib\site-packages\xadmin\sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\xadmin\sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\xadmin\views\base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\decorators.py", line 62, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\decorators.py", line 58, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "E:\python2002\env2002\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "E:\python2002\env2002\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\xadmin\views\list.py", line 401, in get
+    response = self.get_result_list()
+  File "E:\python2002\env2002\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "E:\python2002\env2002\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\xadmin\views\list.py", line 200, in get_result_list
+    return self.make_result_list()
+  File "E:\python2002\env2002\lib\site-packages\xadmin\views\list.py", line 177, in make_result_list
+    self.result_count = self.paginator.count
+  File "E:\python2002\env2002\lib\site-packages\django\utils\functional.py", line 36, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "E:\python2002\env2002\lib\site-packages\django\core\paginator.py", line 85, in count
+    return self.object_list.count()
+  File "E:\python2002\env2002\lib\site-packages\django\db\models\query.py", line 387, in count
+    return self.query.get_count(using=self.db)
+  File "E:\python2002\env2002\lib\site-packages\django\db\models\sql\query.py", line 491, in get_count
+    number = obj.get_aggregation(using, ['__count'])['__count']
+  File "E:\python2002\env2002\lib\site-packages\django\db\models\sql\query.py", line 476, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "E:\python2002\env2002\lib\site-packages\django\db\models\sql\compiler.py", line 1068, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\python2002\env2002\lib\site-packages\django\db\backends\utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "E:\python2002\env2002\lib\site-packages\django\db\backends\utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "E:\python2002\env2002\lib\site-packages\django\db\backends\utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "E:\python2002\env2002\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\python2002\env2002\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\python2002\env2002\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\python2002\env2002\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "E:\python2002\env2002\lib\site-packages\MySQLdb\cursors.py", line 209, in execute
+    res = self._query(query)
+  File "E:\python2002\env2002\lib\site-packages\MySQLdb\cursors.py", line 315, in _query
+    db.query(q)
+  File "E:\python2002\env2002\lib\site-packages\MySQLdb\connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'api.b_one' doesn't exist")
+ERROR 2020-07-09 07:34:51,732 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 500 231651
+INFO 2020-07-09 07:34:59,394 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 14831
+INFO 2020-07-09 07:35:07,357 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 29309
+INFO 2020-07-09 07:35:07,390 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2020-07-09 07:35:07,419 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:35:07,420 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:35:07,420 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:35:07,421 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:35:07,421 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:35:07,429 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:35:11,494 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 07:50:11,620 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 24943
+INFO 2020-07-09 07:50:15,754 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 07:50:22,072 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 19237
+INFO 2020-07-09 07:50:22,125 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_zh-hans.js HTTP/1.1" 200 694
+INFO 2020-07-09 07:50:22,136 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 200 8425
+INFO 2020-07-09 07:50:22,136 basehttp 124 "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 200 19226
+INFO 2020-07-09 07:50:22,137 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 200 10602
+INFO 2020-07-09 07:50:22,139 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 200 98602
+INFO 2020-07-09 07:50:22,140 basehttp 124 "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 200 104906
+INFO 2020-07-09 07:50:22,146 basehttp 124 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 200 1344
+INFO 2020-07-09 07:50:26,182 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 07:50:59,175 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 07:51:03,352 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 19585
+INFO 2020-07-09 07:51:07,445 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 07:51:23,090 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 07:51:27,293 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 19585
+INFO 2020-07-09 07:51:31,369 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 07:52:01,221 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 07:52:05,453 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 19585
+INFO 2020-07-09 07:52:09,537 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 07:52:25,542 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 07:52:29,747 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 19585
+INFO 2020-07-09 07:52:33,846 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 08:43:30,264 basehttp 124 "GET /first/banner/?format=json HTTP/1.1" 200 2
